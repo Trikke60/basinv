@@ -1,0 +1,10 @@
+url=jdbc:as400://172.16.0.10/cbg
+user=mpn
+password=p@ssw0rd
+driver=com.ibm.as400.access.AS400JDBCDriver
+#invoicedialog=FixForm
+invoicedialog=FreeForm
+#quotedialog=FixForm
+quotedialog=FreeForm
+documentlines=25
+commentfontsize=20
